@@ -11,18 +11,3 @@ Prepared Dataset Used in Implementation:
 
 https://www.kaggle.com/datasets/paaruvg/helmet-dataset
 
-=======
-Selected Dataset and Dataset Link 
-
-Dataset Name: Helmet Detection Dataset 
-
-Original Dataset Link: 
-
-https://www.kaggle.com/datasets/andrewmvd/helmet-detection 
-
-Prepared Dataset Used in Implementation: 
-
-https://www.kaggle.com/datasets/paaruvg/helmet-dataset
-
->>>>>>> 707e7b71159f4490a0530160a2257a5c8c398c47
- 
